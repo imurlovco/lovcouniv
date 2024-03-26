@@ -16,7 +16,7 @@ html {
 }
 
 .btn-hover {
-    width: 200px;
+    min-width: 200px;
     font-size: 16px;
     font-weight: 600;
     color: #fff;
